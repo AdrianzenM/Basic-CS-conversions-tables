@@ -7,12 +7,7 @@
 
 using namespace std;
 
-// Global constants
-const int MAX_LENGTH = 17424;   // global constant for max input line length
-//const char FILE_NAME[] = "cipherOriginal.txt";
-const char FILE_NAME[] = "samplecipher.txt";
-const char FILE_NAME2[] = "keys.txt";
-
+// Glob
 //-------------------------------------------------------------------------------------- 
 // Display name and program information
 void displayInfo()
